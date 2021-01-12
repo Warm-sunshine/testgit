@@ -5,3 +5,4 @@
 55555555
 66666666
 Creating a new branch is quick
+Creating a new branch is quick & simple
